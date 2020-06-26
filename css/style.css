@@ -1,0 +1,26 @@
+body{
+    background: white;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1{
+    color: black;
+    font-family: Arial;
+}
+
+h2{
+    font-family: Arial;
+}
+
+p{
+    font-family: Arial;
+}
+
+img{
+    margin-bottom: 20px;
+}
